@@ -16,3 +16,4 @@ tqdm
 transformers
 wandb
 diffusers
+gdown
